@@ -1,0 +1,36 @@
+body {
+    background-color: #ADD8E6;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #000080;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  label {
+    font-size: larger;
+  }
+  
+  input {
+    font-size: larger;
+    padding: 5px;
+    margin-left: 10px;
+  }
+  
+  #guess-button {
+    background-color: #000080;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: larger;
+  }
+  
+  #result {
+    font-size: larger;
+    margin-top: 20px;
+  }
